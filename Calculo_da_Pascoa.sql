@@ -1,9 +1,3 @@
-﻿USE [Veronica_Estudos]
-GO
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
 CREATE FUNCTION [dbo].[fnc_Pascoa] (@ANO int)
 RETURNS date
 AS
