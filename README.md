@@ -1,2 +1,2 @@
-# Calculo_da_Pascoa
- SQL server query
+# Cálculo da Páscoa
+ SQL Server Function baseado no algoritmo de "Meeus/Jones/Butcher".
